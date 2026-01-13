@@ -1,8 +1,8 @@
 # Alien Invasion Game
 
 A classic arcade-style shooter built with Python and Pygame.
-
 ## Features
+<img width="995" height="634" alt="image" src="https://github.com/user-attachments/assets/1fc61622-e05b-4961-b3ac-64ffe187b636" />
 
 - **Progressive Difficulty**: 10 levels of increasing speed and alien fleet size.
 - **Triangular Formations**: Dynamic fleet spawns in pyramid/triangular shapes.
